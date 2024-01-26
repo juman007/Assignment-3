@@ -1,0 +1,89 @@
+.tranding-heading {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+.tranding-container {
+    width: 74%;
+    margin: auto;
+}
+
+.tranding-article-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.tranding-heading-text {
+    font-weight: bold;
+    font-size: 17px;
+    font-family: sans-serif;
+    margin-left: -1px;
+}
+
+.fas {
+    font-size: 18px;
+}
+
+.all-article {
+    /* border: 1px solid black; */
+    height: 124px;
+    width: 30%;
+}
+
+.article-details-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.article-numbering {
+    /* border: 1px solid black; */
+    width: 13%;
+    height: 100%;
+    font-size: 36px;
+    color: #00000014;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-right: 10px;
+
+}
+
+.article-details-container {
+    display: flex;
+    align-items: center;
+}
+
+.article-details {
+    /* border: 1px solid black; */
+    width: 90%;
+    height: 100%;
+}
+
+.author-name {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.fa-user {
+    font-size: 17px;
+    margin-right: 6px;
+}
+.article-heading{
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.time{
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.625);
+    font-size: 13px;
+    margin-top: 10px;
+}
